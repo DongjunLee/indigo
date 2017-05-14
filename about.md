@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>
+<p style="text-align: center;">
 Hi. My name is Dongjun Lee. <br/>
 Developers who believe in the unlimited potential of the brain. <br/>
 I'm on my way to becoming a data scientist.
