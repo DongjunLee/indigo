@@ -28,31 +28,36 @@ description: "새로운 지식을 받아들이는 저만의 체화 방식 소개
 ### 지식 체화법
 
 **1. Raw Data**(날 것)
-	문득 머리에서 생각나는 지식들을 말합니다.
-	갑자기 떠오르는 아이디어들은 어딘가에 메모하지 않으면 순식간에 사라지기도 합니다.
-	바로 간단하게 적을 수 있어야 합니다!
-	- [Google Keep](https://keep.google.com) : 간편한 메모 App!
+문득 머리에서 생각나는 지식들을 말합니다.
+갑자기 떠오르는 아이디어들은 어딘가에 메모하지 않으면 순식간에 사라지기도 합니다.
+바로 간단하게 적을 수 있어야 합니다!
+
+- [Google Keep](https://keep.google.com) : 간편한 메모 App!
 
 **2. Information** (1차 가공데이터)
-	강의를 듣거나, 책을 보는 등.. 새로운 지식들을 얻었을 때의 정보들을 이야기합니다.
-	- [TIL](https://github.com/thoughtbot/til) : TIL은 Today I Learned의 약자로서 오늘 배운 것들을 간단하게 정리하는 것을 말합니다.
-	- [TIL+MAL](https://github.com/DongjunLee/TIL-MAL) : 저는 TIL 에 MAL (My Awesome List) 를 더해서 오늘 배운 것들을 정리하고, 공부했던 자료들을 모아놓습니다. (Git에 Markdown 형식으로)
-	- [OneNote](https://www.onenote.com/) : 전자필기장으로 유명한 App입니다. 모바일, 테블릿, 노트북 전부 동기화하여 사용할 수 있어서 자료들을 정리하기 편합니다. 사용하기 또한 굉장히 편리합니다!
-	- [Pocket](https://getpocket.com) : 블로그나 뉴스 등.. Web상에서 유용한 글을 보았을 때, Pocket에 넣어놓았다가 언제든 편하게 볼 수 있습니다.  
+강의를 듣거나, 책을 보는 등.. 새로운 지식들을 얻었을 때의 정보들을 이야기합니다.
+
+- [TIL](https://github.com/thoughtbot/til) : TIL은 Today I Learned의 약자로서 오늘 배운 것들을 간단하게 정리하는 것을 말합니다.
+- [TIL+MAL](https://github.com/DongjunLee/TIL-MAL) : 저는 TIL 에 MAL (My Awesome List) 를 더해서 오늘 배운 것들을 정리하고, 공부했던 자료들을 모아놓습니다. (Git에 Markdown 형식으로)
+- [OneNote](https://www.onenote.com/) : 전자필기장으로 유명한 App입니다. 모바일, 테블릿, 노트북 전부 동기화하여 사용할 수 있어서 자료들을 정리하기 편합니다. 사용하기 또한 굉장히 편리합니다!
+- [Pocket](https://getpocket.com) : 블로그나 뉴스 등.. Web상에서 유용한 글을 보았을 때, Pocket에 넣어놓았다가 언제든 편하게 볼 수 있습니다.  
 
 **3. Knowledge** (나에게 맞게 가공한 데이터)
-	Information을 나에게 맞게 한번 더 정리한 데이터를 말합니다.
-	- Blog : 워드프레스로 만든 개인 블로그에다가 제가 정리한 생각들을 올립니다! (이번이 첫 포스팅이지만..)
-	- [SlideShare](http://www.slideshare.net/) : PPT, 슬라이드 자료들을 공유하는 사이트입니다. 알고 있는 지식들을 슬라이드로 만들어서 공유하는 것도 좋지요.  
-	- [독서정리노트](http://mindwatching.kr/329): '메모 습관의 힘' 의 저자이신 신정철님이 공유해주신 독서정리양식! 책은 비록 안 봤지만.. 잘 사용하고 있습니다.
+Information을 나에게 맞게 한번 더 정리한 데이터를 말합니다.
+
+- Blog : 워드프레스로 만든 개인 블로그에다가 제가 정리한 생각들을 올립니다! (이번이 첫 포스팅이지만..)
+- [SlideShare](http://www.slideshare.net/) : PPT, 슬라이드 자료들을 공유하는 사이트입니다. 알고 있는 지식들을 슬라이드로 만들어서 공유하는 것도 좋지요.  
+- [독서정리노트](http://mindwatching.kr/329): '메모 습관의 힘' 의 저자이신 신정철님이 공유해주신 독서정리양식! 책은 비록 안 봤지만.. 잘 사용하고 있습니다.
 
 **4. Wisdom** (완전한 체화를 위해 실습하기)
-	Knowledge 단계까지 진행을 하면 내 것으로 반정도 만들었다고 생각을 합니다. 언제나 중요한 것은 실천입니다!
-	- Project : 지금까지 배웠던 정보들을 활용할 수 있는 간단한 프로젝트를 기획해서 만들어보도록 합시다.
-	- Teach : 누군가에게 가르쳐 주는 순간만큼 또 많이 배우는 때가 없다고 합니다.  
+Knowledge 단계까지 진행을 하면 내 것으로 반정도 만들었다고 생각을 합니다. 언제나 중요한 것은 실천입니다!
+
+- Project : 지금까지 배웠던 정보들을 활용할 수 있는 간단한 프로젝트를 기획해서 만들어보도록 합시다.
+- Teach : 누군가에게 가르쳐 주는 순간만큼 또 많이 배우는 때가 없다고 합니다.  
 
 
 **그 외. Daily Schedule**(일정관리)
+
 - [Todoist](https://ko.todoist.com/) : 일정관리로 매우 요긴하게 사용하고 있는 To Do 앱. 윈도우, 맥, 안드로이드, ios, 크롬 확장 등... Web기반으로 되어있어 어디서든 편하게 사용할 수 있습니다.
 - [Todait](http://www.todait.com/) : 최근에 사용하기 시작한 스터디 플래너 App. 깔끔한 UI/UX를 제공한다. 수험생들에게 특화되어 있기는 하지만 플래너와 더불어 자신을 수치화하고 그 수치로부터 지혜를 얻을 수 있는 QS([Quantified Self](http://quantifiedself.com/))의 개념으로 나는 바라보고 있습니다.
 
