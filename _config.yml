@@ -37,13 +37,13 @@ disqus:
 facebook: dongjun.lee.98284
 #twitter: mytwitter
 # google: mygoogle
-# instagram: myinstagram
+instagram: humanbrain.djlee
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
 github: DongjunLee
-wordpress: humanbrain.in
+# wordpress: humanbrain.in
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -65,15 +65,15 @@ authors:
 width: large
 
 # if you don't need pagination, comment the *paginate* configs below
-# paginate: 5
-# paginate_path: "blog/:num/"
+paginate: 5
+paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: false
+blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
