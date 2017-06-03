@@ -2,7 +2,10 @@
 title: "Word2Image HighFashion Project"
 layout: post
 date: 2016-09-17 22:10
-tag: deep learning, dcgan, fashion
+tag: 
+- deep learning
+- dcgan
+- fashion
 image: https://github.com/Soma2-HighFashion/Word2Image/blob/master/sample_images/generate_samples.png?raw=true
 headerImage: true
 projects: true
@@ -58,13 +61,13 @@ externalLink: false
 ![image](https://github.com/DongjunLee/BeAwesomeToday/raw/master/images/scratch.png)  
 Step1. Scatch 화면  
 
-예를 들어 '정장' 이라는 단어를 입력하고 Scatch를 하면, 
+예를 들어 '정장' 이라는 단어를 입력하고 Scatch를 하면,
 
 ![image](https://github.com/DongjunLee/BeAwesomeToday/raw/master/images/sample-1.png)
 
-와 같은 이미지를 HighFashion이 그려줍니다. 
+와 같은 이미지를 HighFashion이 그려줍니다.
 
-원하는 스타일의 단어들을 여러가지 입력하여, 다양한 이미지들을 Scatch 한 후, 
+원하는 스타일의 단어들을 여러가지 입력하여, 다양한 이미지들을 Scatch 한 후,
 Image Arithmetic 의 +/- 버튼을 통해서, 이미지 연산을 할 수 있습니다.
 
 그렇게 이미지들을 만들고, 연산한 결과 예시는 아래와 같습니다.
@@ -99,7 +102,3 @@ Image Arithmetic 의 +/- 버튼을 통해서, 이미지 연산을 할 수 있습
 에서 확인하실 수 있습니다.
 
 놀러오셔서 다양한 이미지들을 그려보시고, 이미지연산을 활용하여 패션을 완성해보세요!
-
-
-
-

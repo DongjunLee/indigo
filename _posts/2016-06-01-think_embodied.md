@@ -2,10 +2,10 @@
 title: "지식 체화법"
 layout: post
 date: 2016-06-01 10:10
-tag: productivity
-image: assets/images/study-1968077_640.jpg
+tag:
+- productivity
+image: /assets/images/study-1968077_640.jpg
 headerImage: true
-projects: true
 hidden: true # don't count this post in blog pagination
 description: "새로운 지식을 받아들이는 저만의 체화 방식 소개입니다."
 category: blog
