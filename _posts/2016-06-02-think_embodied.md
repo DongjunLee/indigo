@@ -1,7 +1,7 @@
 ---
 title: "지식 체화법2"
 layout: post
-date: 2016-06-02 10:10
+date: 2017-06-14 00:50
 image: /assets/images/study-1968077_640.jpg
 headerImage: true
 tag:
