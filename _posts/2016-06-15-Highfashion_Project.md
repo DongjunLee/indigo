@@ -1,8 +1,8 @@
 ---
 title: "Word2Image HighFashion Project"
 layout: post
-date: 2016-09-17 22:10
-tag: 
+date: 2016-06-15 22:10
+tag:
 - deep learning
 - dcgan
 - fashion
