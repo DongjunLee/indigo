@@ -18,7 +18,7 @@ description: "Self knowledge through numbers"
  그러던 중 [헬로 데이터 과학](http://www.hellodatascience.com/?page_id=25)을 운영하시는 김진영님을 통해서 QS라는 개념에 대해 알게되었습니다. QS는 [**Quantified Self**](http://quantifiedself.com/)의 약자로 개인의 일상활동에서 신체적·정신적 상태를 센싱 및 트래킹하여 이를 수치화함으로써 자신의 상태를 분석하고 삶의 질을 개선하기 위한 방법을 연구하여 실생활에 적용하는 활동을 의미합니다. Gary Wolf와 Tom Kelly에 의해 소개되었으며, 2010년 [Ted Talk](https://www.ted.com/talks/gary_wolf_the_quantified_self?language=ko)에서 주목을 받아, 그 이후 하나의 운동형태로 커뮤니티가 형성되어 QS웹사이트를 통해 전개되어 왔다고 합니다.
  
  ![image](https://github.com/DongjunLee/BeAwesomeToday/raw/master/images/quantified_self_logo_2x.gif)
- 출처 : http://quantifiedself.com
+ <figcaption class="caption"> 출처 : http://quantifiedself.com</figcaption>
  
  무엇보다 자신을 수치화하고, 그것을 분석하여 삶을 개선한다는 것이 저에게는 너무나도 매력적으로 보였습니다. 그 동안 시간의 질에 대한 고민을 해결할 수 있고, **Data Scientist**가 되기 위한 하나의 과정으로 자신을 분석하는 것과 더불어, 이 데이터들을 기반으로 저 자신만의 인공지능 비서 **Stalker**를 만들어보자는 생각까지 나아가게 되었으니까요.
  
