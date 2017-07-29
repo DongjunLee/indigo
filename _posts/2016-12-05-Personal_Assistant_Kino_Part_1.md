@@ -27,14 +27,7 @@ externalLink: false
 
  그래서 이렇게 쌓은 나에 대한 Data를 바탕으로.. 나를 아는 Bot을 만들고 싶다는 생각을 해왔습니다. 물론 위의 서비스들은 대부분 API를 제공하고 있는 상황입니다.
 
-{% highlight html %}
- <p align="center">
-    <img src="https://lh3.ggpht.com/CbreFsJPetU3O6cZ20avBKTkDuks4eOZZwPeLaq8X8tWw-vE6YIlnZh2dx4tluPWAQ=w300" alt="Project Introduction" width=100>
-    <img src="https://lh5.ggpht.com/tCojEbNBb3EP9mS6BCoyhmLcJIP9yNWy_k5xyDbEheAjlTAHdN4w4G0X2BZnzxo_rg=w300" width=100>
-    <img src="http://i-cdn.phonearena.com/images/articles/188184-gallery/New-icon-for-the-iOS-and-Android-Pebble-Time-Watch-app.jpg" width=100>
-    <img src="https://d1x0mwiac2rqwt.cloudfront.net/bab0a0c4b1c3135a24bd0518417b66e3/as/logo_todoist_schema.png" width=100 style="margin-left: 10px">
-</p>
-{% endhighlight %}
+![images](https://github.com/DongjunLee/BeAwesomeToday/blob/master/images/data_collecter.png?raw=true)
 
 ### Data 수집 정리
 1. [Toggl](https://www.toggl.com/): 시간을 트래킹하기 편한 앱. 일을 시작하기전에 타이머를 누르고, 일이 끝나면 타이머를 종료해서 내가한 작업들을 기록하는데 많이 사용한다.
