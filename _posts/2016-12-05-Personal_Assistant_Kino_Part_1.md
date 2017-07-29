@@ -42,9 +42,7 @@ externalLink: false
 
  그렇게 알아보던 중, 제가 사용하고 있는 개인용 Slack이 눈에 들어왔습니다. [IFTTT](https://www.ifttt.com/)를 연동하여 여러 서비스들에 대한 정보를 Slack에 기록하고 있었고, 개인적인 메모를 하거나 정보를 볼 때 사용하고 있었습니다. 또한 Slack은 굉장히 간단하게 BOT_TOKEN 만 있어도 통신을 주고 받을 수 있고, Slack으로 [Salady Bot]((http://humanbrain.in/2016/08/21/slack_bot_for_salady/))을 만들면서 이미 개발경험을 가지고 있기에 더욱 적합하다고 생각을 했습니다.
 
- <p align="center">
-    <img src="https://forger.typo3.org/images/slack.svg" width=400>
- </p>
+![images](https://forger.typo3.org/images/slack.svg)
 
 ### Slack의 선정이유
 1. 개인용으로 만들어서 운영하는 Slack이 있다. (개인용으로 사용가능)
