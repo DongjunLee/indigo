@@ -7,7 +7,7 @@ tag:
 - quantified self
 - chatbot
 - personal assistant
-image: https://github.com/Soma2-HighFashion/Word2Image/blob/master/sample_images/generate_samples.png?raw=true
+image: /assets/images/kino_front.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
