@@ -22,8 +22,7 @@ externalLink: false
 Kino 프로젝트는 QS를 통해서 자신에 대해서 알고, 불필요한 일들을 자동화시키고 삶의 질을 증진시키기 위한 프로젝트 입니다.
 
 ![images](https://github.com/DongjunLee/BeAwesomeToday/raw/master/images/quantified_self_logo_2x.gif)
-
-출처 : http://quantifiedself.com/
+ <figcaption class="caption">출처 : http://quantifiedself.com/</figcaption>
 
 ## Introduction
 
@@ -33,14 +32,10 @@ Kino 프로젝트는 QS를 통해서 자신에 대해서 알고, 불필요한 �
  
  그래서 이렇게 쌓은 나에 대한 Data를 바탕으로.. 나를 아는 Bot을 만들고 싶다는 생각을 해왔습니다. 물론 위의 서비스들은 대부분 API를 제공하고 있는 상황입니다.
  
- <p align="center">
-    <img src="https://lh3.ggpht.com/CbreFsJPetU3O6cZ20avBKTkDuks4eOZZwPeLaq8X8tWw-vE6YIlnZh2dx4tluPWAQ=w300" alt="Project Introduction" width=100>
-    <img src="https://lh5.ggpht.com/tCojEbNBb3EP9mS6BCoyhmLcJIP9yNWy_k5xyDbEheAjlTAHdN4w4G0X2BZnzxo_rg=w300" width=100>
-    <img src="http://i-cdn.phonearena.com/images/articles/188184-gallery/New-icon-for-the-iOS-and-Android-Pebble-Time-Watch-app.jpg" width=100>
-    <img src="https://d1x0mwiac2rqwt.cloudfront.net/bab0a0c4b1c3135a24bd0518417b66e3/as/logo_todoist_schema.png" width=100 style="margin-left: 10px"> 
-</p>
+ ![images](https://cdn-images-1.medium.com/max/1600/1*z5JCczlWSE3NBws3r9wEiA.png)
 
 ### Data 수집 정리
+
 1. [Toggl](https://www.toggl.com/): 시간을 트래킹하기 편한 앱. 일을 시작하기전에 타이머를 누르고, 일이 끝나면 타이머를 종료해서 내가한 작업들을 기록하는데 많이 사용한다.
 2. [RescueTime](https://www.rescuetime.com/): 생산성을 관리해주는 툴로서, PC에서 사용한 앱들의 시간을 기록해서 보여줍니다.
 3. [Pebble](https://www.pebble.com/): 걸음걸이와 수면시간을 Tracking. Data는 스마트워치 안에 기록되는 시스템으로 보이나.. 간편하게 사용하기에는 어려워 보이네요.
@@ -54,12 +49,11 @@ Kino 프로젝트는 QS를 통해서 자신에 대해서 알고, 불필요한 �
  
  그렇게 알아보던 중, 제가 사용하고 있는 개인용 Slack이 눈에 들어왔습니다. [IFTTT](https://www.ifttt.com/)를 연동하여 여러 서비스들에 대한 정보를 Slack에 기록하고 있었고, 개인적인 메모를 하거나 정보를 볼 때 사용하고 있었습니다. 또한 Slack은 굉장히 간단하게 BOT_TOKEN 만 있어도 통신을 주고 받을 수 있고, Slack으로 [Salady Bot]((http://humanbrain.in/2016/08/21/slack_bot_for_salady/))을 만들면서 이미 개발경험을 가지고 있기에 더욱 적합하다고 생각을 했습니다.
  
- <p align="center">
-    <img src="https://forger.typo3.org/images/slack.svg" width=400> <br/>
-    출처 : Slack
- </p>
+ ![images](https://forger.typo3.org/images/slack.svg)
+ <figcaption class="caption">출처 : Slack</figcaption>
  
 ### Slack의 선정이유
+
 1. 개인용으로 만들어서 운영하는 Slack이 있다. (개인용으로 사용가능)
 2. 다른 App들은 Server로 구성하고, Webhook 설정들의 작업들이 필요하지만, Slack은 Token만 있으면 통신이 가능.
 3. 이미 Slack Bot을 개발해본 경험이 있다.
@@ -94,10 +88,18 @@ Kino 프로젝트는 QS를 통해서 자신에 대해서 알고, 불필요한 �
 ## Kino
  
  그렇게 만들기 시작한 저만의 개인 비서 Kino. 아래는 중간 결과물을 입니다.
+
+ ![skill_example1](https://github.com/DongjunLee/BeAwesomeToday/blob/master/images/en/kino-skill-example-en1.png?raw=true)
+<figcaption class="caption">Weather Skill</figcaption>
+
+ ![skill_example2](https://github.com/DongjunLee/BeAwesomeToday/blob/master/images/en/kino-skill-example-en2.png?raw=true)
+<figcaption class="caption">Kino는 아침에 스케쥴을 알려줍니다</figcaption>
  
- ![guide](https://github.com/DongjunLee/BeAwesomeToday/raw/master/images/ko/intro_and_guide.png)
- 인트로 & 가이드
+ ![guide](https://github.com/DongjunLee/BeAwesomeToday/raw/master/images/en/intro_and_guide.jpeg)
+<figcaption class="caption">인트로 & 가이드</figcaption>
+
  
- ![functions](https://github.com/DongjunLee/BeAwesomeToday/raw/master/images/ko/kino-functions.jpeg)
- 사용할 수 있는 Skill들
+ ![functions](https://github.com/DongjunLee/BeAwesomeToday/raw/master/images/en/kino-functions.jpeg)
+<figcaption class="caption">사용할 수 있는 Skill들</figcaption>
+ 
  
