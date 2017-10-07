@@ -23,6 +23,7 @@ Software & Machine Learning Engineer, <a href="kono.ai">Konolabs</a>, (2016. 7 ~
 <ul>
 	<li>Implements Email Bot pipeline with AWS Lambda</li>
 	<li>Research NLU and temporal Information Extraction</li>
+	<li>Implements NLP Server</li>
 </ul>
 
 <h3>
@@ -84,6 +85,10 @@ Develop Intern, <a href="">Minz Communication</a>, (2015. 7 ~ 2016.7)
 <h2>Projects</h2>
 
 <ul>
+   	<li>
+	  <a href="https://github.com/DongjunLee/char-rnn-tensorflow">char-rnn-tensorflow</a> : Multi-layer Recurrent Neural Networks for character-level language models in Python using Tensorflow by 1.3 version (Estimator, Experiment, Dataset), Oct 2017
+	  <iframe src="https://ghbtns.com/github-btn.html?user=DongjunLee&repo=char-rnn-tensorflow&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
+	</li>
 	<li>
 	  <a href="https://github.com/DongjunLee/kino-bot">Kino Bot</a> : My Personal Assistant Based on Slack Bot (Quentified Self Project), May 2017
 	  <iframe src="https://ghbtns.com/github-btn.html?user=DongjunLee&repo=kino-bot&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
