@@ -99,5 +99,5 @@ Kino 프로젝트는 QS를 통해서 자신에 대해서 알고, 불필요한 �
 <figcaption class="caption">인트로 & 가이드</figcaption>
 
 
- ![functions](https://github.com/DongjunLee/BeAwesomeToday/raw/master/images/ko/kino-functions.png)
+ ![functions](https://github.com/DongjunLee/BeAwesomeToday/raw/master/images/ko/kino-functions.jpeg)
 <figcaption class="caption">사용할 수 있는 Skill들</figcaption>
