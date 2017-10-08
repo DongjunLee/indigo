@@ -11,7 +11,7 @@ image: /assets/images/kino_front.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "My Personal Assistant Kino based on Slack Bot"
+description: "My Personal Assistant Kino based on Slack Bot Part 1 - Overview"
 category: project
 author: dongjun
 externalLink: false
