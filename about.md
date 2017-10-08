@@ -14,10 +14,10 @@ I'm on my way to becoming a data scientist.
 
 <h2>Work Experience</h2>
 
-<div style="margin-left: 15px;"> 
+<div style="margin-left: 15px;">
 
 <h3>
-Software & Machine Learning Engineer, <a href="kono.ai">Konolabs</a>, (2016. 7 ~ Present)
+Software & Machine Learning Engineer, <a href="https://kono.ai">Konolabs</a>, (2016. 7 ~ Present)
 </h3>
 
 <ul>
@@ -27,7 +27,7 @@ Software & Machine Learning Engineer, <a href="kono.ai">Konolabs</a>, (2016. 7 ~
 </ul>
 
 <h3>
-Develop Intern, <a href="lunit.io"> Lunit </a>, (2016. 1 ~ 2016. 6)
+Develop Intern, <a href="https://lunit.io/"> Lunit </a>, (2016. 1 ~ 2016. 6)
 </h3>
 
 <ul>
@@ -37,7 +37,7 @@ Develop Intern, <a href="lunit.io"> Lunit </a>, (2016. 1 ~ 2016. 6)
 </ul>
 
 <h3>
-6th Member, <a href="www.swmaestro.kr/">Software Maestro</a>, (2015. 7 ~ 2016.7)
+6th Member, <a href="http://www.swmaestro.kr/">Software Maestro</a>, (2015. 7 ~ 2016.7)
 </h3>
 
 <ul>
@@ -47,7 +47,7 @@ Develop Intern, <a href="lunit.io"> Lunit </a>, (2016. 1 ~ 2016. 6)
 </ul>
 
 <h3>
-Develop Intern, <a href="">Minz Communication</a>, (2015. 7 ~ 2016.7)
+Develop Intern, <a href="#">Minz Communication</a>, (2015. 7 ~ 2016.7)
 </h3>
 
 <ul>
