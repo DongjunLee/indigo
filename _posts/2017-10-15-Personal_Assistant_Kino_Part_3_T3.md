@@ -20,7 +20,7 @@ externalLink: false
 
 Kino 프로젝트는 QS를 통해서 자신에 대해서 알고, 불필요한 일들을 자동화시키고 삶의 질을 증진시키기 위한 프로젝트 입니다.
 
-![images](../images/quantified_self_logo_2x.gif)
+![images](https://github.com/DongjunLee/BeAwesomeToday/raw/master/images/quantified_self_logo_2x.gif)
 
  <figcaption class="caption">출처 : http://quantifiedself.com/</figcaption>
 
