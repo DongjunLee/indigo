@@ -7,7 +7,7 @@ layout: page
 <p style="text-align: center;">
 Hi. My name is Dongjun Lee. <br/>
 Developers who believe in the unlimited potential of the brain. <br/>
-I'm on my way to becoming a data scientist.
+I'm on my way to becoming a Machine Learning Engineer.
 </p>
 
 <hr/>
@@ -23,7 +23,7 @@ Software & Machine Learning Engineer, <a href="https://kono.ai">Konolabs</a>, (2
 <ul>
 	<li>Implements Email Bot pipeline with AWS Lambda</li>
 	<li>Research NLU and temporal Information Extraction</li>
-	<li>Implements NLP Server</li>
+	<li>Implements NLP Server (Django + TensorFlow Serving)</li>
 </ul>
 
 <h3>
@@ -85,8 +85,12 @@ Develop Intern, <a href="#">Minz Communication</a>, (2015. 7 ~ 2016.7)
 <h2>Projects</h2>
 
 <ul>
-   	<li>
-	  <a href="https://github.com/DongjunLee/char-rnn-tensorflow">char-rnn-tensorflow</a> : Multi-layer Recurrent Neural Networks for character-level language models in Python using Tensorflow by 1.3 version (Estimator, Experiment, Dataset), Oct 2017
+  <li>
+	  <a href="https://github.com/DongjunLee/conversation-tensorflow">conversation-tensorflow</a> : A neural chatbot using sequence to sequence model with attentional decoder implements by Tensorflow 1.4 version (Estimator, Experiment, Dataset), Nov 2017
+	  <iframe src="https://ghbtns.com/github-btn.html?user=DongjunLee&repo=conversation-tensorflow&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
+  </li>
+  <li>
+	  <a href="https://github.com/DongjunLee/char-rnn-tensorflow">char-rnn-tensorflow</a> : Multi-layer Recurrent Neural Networks for character-level language models in Python using Tensorflow by 1.4 version (Estimator, Experiment, Dataset), Oct 2017
 	  <iframe src="https://ghbtns.com/github-btn.html?user=DongjunLee&repo=char-rnn-tensorflow&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
 	</li>
 	<li>
