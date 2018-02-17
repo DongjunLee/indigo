@@ -86,6 +86,8 @@ Develop Intern, <a href="#">Minz Communication</a>, (2015. 7 ~ 2016.7)
 
 <h2>Projects</h2>
 
+<div style="margin-left: 15px;">
+
 <h3> Natural Language Processing </h3>
 
 <ul>
@@ -149,3 +151,5 @@ Develop Intern, <a href="#">Minz Communication</a>, (2015. 7 ~ 2016.7)
 	  <a href="https://github.com/2015-Hanyang-Univ-Capstone">My Prescience</a> : Music Recommand System, June 2015
 	</li>
 </ul>
+
+</div>
