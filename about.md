@@ -6,8 +6,8 @@ layout: page
 
 <p style="text-align: center;">
 Dongjun Lee <br/><br/>
-Machine Learning Engineer <br/>
-Konolabs <br/><br/>
+AI Engineer <br/>
+Naver, Clova AI Research <br/><br/>
 believe in the unlimited potential of the human brain <br/>
 
 </p>
@@ -19,13 +19,22 @@ believe in the unlimited potential of the human brain <br/>
 <div style="margin-left: 15px;">
 
 <h3>
-Software & Machine Learning Engineer, <a href="https://kono.ai">Konolabs</a>, (2016. 7 ~ Present)
+AI Engineer, <a href="https://clova.ai/">Naver, Clova AI Research</a>, (2018. 4 ~ Current)
+</h3>
+
+<ul>
+	<li></li>
+</ul>
+
+<h3>
+Software & Machine Learning Engineer, <a href="https://kono.ai">Konolabs</a>, (2016. 7 ~ 2018. 3)
 </h3>
 
 <ul>
 	<li>Implements Email Bot pipeline with AWS Lambda</li>
 	<li>Research NLU and temporal Information Extraction</li>
 	<li>Implements NLP Server (Django + TensorFlow Serving)</li>
+	<li>Implements <a href="https://kono.ai/slack">Kono Slack Bot</a> (Team Scheduling Bot) </li>
 </ul>
 
 <h3>
@@ -87,6 +96,26 @@ Develop Intern, <a href="#">Minz Communication</a>, (2015. 7 ~ 2016.7)
 <h2>Projects</h2>
 
 <div style="margin-left: 15px;">
+
+<h3> <a href="https://github.com/hb-research"> hb-research </a> </h3>
+
+Personal Organization for Deep Learning Project.
+
+<ul>
+  <li>
+    <a href="https://hb-research.github.io/notes/">notes</a> : Summary Notes, Codes and Articles of Deep Learning Research.
+	  <iframe src="https://ghbtns.com/github-btn.html?user=hb-research&repo=notes&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
+  </li>
+  <li>
+    <a href="https://github.com/hb-research/hb-config">hb-config</a> : easy to configure your python project especially Deep Learning experiments
+	  <iframe src="https://ghbtns.com/github-btn.html?user=hb-research&repo=hb-config&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
+  </li>
+  <li>
+    <a href="https://github.com/hb-research/hb-base/">notes</a> : Project structure of Deep Learning experiments
+	  <iframe src="https://ghbtns.com/github-btn.html?user=hb-research&repo=hb-base&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
+  </li>
+</ul>
+
 
 <h3> Natural Language Processing </h3>
 
