@@ -152,6 +152,11 @@ Personal Organization for Deep Learning Project.
 	<li>
 	  <a href="https://github.com/DongjunLee/kino-bot">Kino Bot</a> : My Personal Assistant Based on Slack Bot (Quentified Self Project), May 2017
 	  <iframe src="https://ghbtns.com/github-btn.html?user=DongjunLee&repo=kino-bot&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
+      <ul>
+        <li>
+          <a href="https://www.slideshare.net/DongJunLee6/kino-my-personal-assistant-slack-bot-quantified-self?qid=f9ecd0c4-2a8e-4424-b8b0-a387290cb643&v=&b=&from_search=1"> SlideShare </a> : Kino - My Personal Assistant
+        </li>
+      </ul>
 	</li>
 </ul>
 
