@@ -6,7 +6,7 @@ layout: page
 
 <p style="text-align: center;">
 Dongjun Lee <br/><br/>
-AI Engineer <br/>
+Research Engineer <br/>
 Naver, Clova AI Research <br/><br/>
 believe in the unlimited potential of the human brain <br/>
 
@@ -19,11 +19,13 @@ believe in the unlimited potential of the human brain <br/>
 <div style="margin-left: 15px;">
 
 <h3>
-AI Engineer, <a href="https://clova.ai/">Naver, Clova AI Research</a>, (2018. 4 ~ Current)
+Research Engineer, <a href="https://clova.ai/">Naver, Clova AI Research</a>, (2018. 4 ~ Current)
 </h3>
 
 <ul>
-	<li></li>
+	<li>Implements & Improve Machine Comprehension(QA) model</li>
+	<li>Manage from Research to Service part</li>
+	<li>Implements API Server using ml model</li>
 </ul>
 
 <h3>
@@ -164,8 +166,12 @@ Personal Organization for Deep Learning Project.
 
 <ul>
   <li>
-	  <a href="https://github.com/DongjunLee/vae-tensorflow">vae-tensorflow</a> : TensorFlow implementation of Auto-Encoding Variational Bayes, Dev 2017
+	  <a href="https://github.com/DongjunLee/vae-tensorflow">vae-tensorflow</a> : TensorFlow implementation of Auto-Encoding Variational Bayes, Dec 2017
 	  <iframe src="https://ghbtns.com/github-btn.html?user=DongjunLee&repo=vae-tensorflow&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
+  </li>
+  <li>
+	  <a href="https://github.com/DongjunLee/gan-pytorch">gan-pytorch</a> : PyTorch implementation of 'GAN (Generative Adversarial Networks)', Apr 2018
+	  <iframe src="https://ghbtns.com/github-btn.html?user=DongjunLee&repo=gan-pytorch&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
   </li>
   <li>
     <a href="https://github.com/Soma2-HighFashion"> HighFashion </a> : Design street fashion base on Deep Learning, Jun 2016
