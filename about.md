@@ -6,9 +6,13 @@ layout: page
 
 <p style="text-align: center;">
 Dongjun Lee <br/><br/>
-Research Engineer <br/>
+Machine Learning Engineer <br/>
 Naver, Clova AI Research <br/><br/>
 believe in the unlimited potential of the human brain <br/>
+
+<br/>
+
+CV: <a href="https://dongjunlee.github.io/assets/cv/CV_DongjunLee_Resume.pdf">[PDF]</a>
 
 </p>
 
@@ -19,34 +23,38 @@ believe in the unlimited potential of the human brain <br/>
 <div style="margin-left: 15px;">
 
 <h3>
-Research Engineer, <a href="https://clova.ai/">Naver, Clova AI Research</a>, (2018. 4 ~ Current)
+Machine Learning Engineer, <a href="https://clova.ai/">Naver, Clova AI Research</a>, (2018. 4 ~ Current)
 </h3>
 
 <ul>
-	<li>Implements & Improve Machine Comprehension(QA) model</li>
-	<li>Manage from Research to Service part</li>
-	<li>Implements API Server using ml model</li>
+	<li>
+	  Backend engineer in NLP Research Team
+	</li>
+	<li>
+	  Led the Question Answering Framework project from Research to Service
+	  <ul>
+	    <li>The Framework for easily research experiments and test model with connecting modules</li>
+	    <li>Developed on the Document QA Model with focusing inference latency and keeping the original performance</li>
+	  </ul>
+	</li>
 </ul>
 
 <h3>
-Software & Machine Learning Engineer, <a href="https://kono.ai">Konolabs</a>, (2016. 7 ~ 2018. 3)
+Software Engineer, Machine Learning <a href="https://kono.ai">Konolabs</a>, (2016. 7 ~ 2018. 3)
 </h3>
 
 <ul>
-	<li>Implements Email Bot pipeline with AWS Lambda</li>
-	<li>Research NLU and temporal Information Extraction</li>
-	<li>Implements NLP Server (Django + TensorFlow Serving)</li>
-	<li>Implements <a href="https://kono.ai/slack">Kono Slack Bot</a> (Team Scheduling Bot) </li>
+    <li> Implemented Email Bot pipeline with AWS, NLP Server (Django + TF Serving) and Kono Slack Bot </li>
+    <li> Researched NLP and temporal information extraction </li>
+    <li> Led a project Kono Slack Bot that schedule an team meeting as easy as possible </li>
 </ul>
 
 <h3>
-Develop Intern, <a href="https://lunit.io/"> Lunit </a>, (2016. 1 ~ 2016. 6)
+Software Engineer Intern, <a href="https://lunit.io/"> Lunit </a>, (2016. 1 ~ 2016. 6)
 </h3>
 
 <ul>
-	<li>Manage massive data</li>
-	<li>Develop & Manage Storage server</li>
-	<li>Deep Learning(Computer Vision)</li>
+	<li>Managed massive data and developed storage server</li>
 </ul>
 
 <h3>
@@ -55,12 +63,11 @@ Develop Intern, <a href="https://lunit.io/"> Lunit </a>, (2016. 1 ~ 2016. 6)
 
 <ul>
 	<li>Software Talent Training Program for developer</li>
-	<li>Team based Projects</li>
-	<li>Education, Seminar, and etc...</li>
+	<li>Team Projects and Education, Seminar, and so on</li>
 </ul>
 
 <h3>
-Develop Intern, <a href="#">Minz Communication</a>, (2015. 7 ~ 2016.7)
+Software Engineer Intern, <a href="#">Minz Communication</a>, (2015. 7 ~ 2016.7)
 </h3>
 
 <ul>
@@ -86,7 +93,7 @@ Develop Intern, <a href="#">Minz Communication</a>, (2015. 7 ~ 2016.7)
 	<li>HTML5, CSS3, JavaScript, jQuery (SAP)</li>
 	<li>Favorite language is <b>Python3</b></li>
 	<li>Data Science - numpy, scikit-learn, pandas, matplotlib, seaborn, jupyter notebook</li>
-	<li><b>Machine Learning & Deep Learning</b> - <b>TensorFlow</b>, scikit-learn</li>
+	<li><b>Machine Learning & Deep Learning</b> - <b>TensorFlow, PyTorch</b>, scikit-learn</li>
 	<li>AWS - API Gateway, Lambda, S3 etc...</li>
 	<li>Java8, Design Patterns</li>
 	<li>Functional Programing - Scala</li>
@@ -113,7 +120,7 @@ Personal Organization for Deep Learning Project.
 	  <iframe src="https://ghbtns.com/github-btn.html?user=hb-research&repo=hb-config&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
   </li>
   <li>
-    <a href="https://github.com/hb-research/hb-base/">notes</a> : Project structure of Deep Learning experiments
+    <a href="https://github.com/hb-research/hb-base/">hb-base</a> : Project structure of Deep Learning experiments
 	  <iframe src="https://ghbtns.com/github-btn.html?user=hb-research&repo=hb-base&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
   </li>
 </ul>
@@ -188,7 +195,7 @@ Personal Organization for Deep Learning Project.
 	  <a href="https://github.com/SoMa1-1/WeAreFamily">We Are Family</a> : Samsung Smart TV app for Family, September 2015
 	</li>
 	<li>
-	  <a href="https://github.com/2015-Hanyang-Univ-Capstone">My Prescience</a> : Music Recommand System, June 2015
+	  <a href="https://github.com/2015-Hanyang-Univ-Capstone">My Prescience</a> : Music Recommand Android app, June 2015
 	</li>
 </ul>
 
