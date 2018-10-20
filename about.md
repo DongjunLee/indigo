@@ -79,10 +79,18 @@ Software Engineer Intern, <a href="#">Minz Communication</a>, (2015. 7 ~ 2016.7)
 
 <hr/>
 
+<h2> Publications </h2>
+
+<ul class="publications">
+	<li> 
+	  <b> CHOPT : Automated Hyperparameter Optimization Framework for Cloud-Based Machine Learning Platforms </b> (2018. 10) <br/>
+	  Jinwoong Kim, Minkyu Kim, Heungseok Park, Ernar Kusdavletov, Dongjun Lee, Adrian Kim, Ji-Hoon Kim, Jung-Woo Ha, Nako Sung </li>
+</ul>
+
 <h2>Interest</h2>
 
 <ul class="skill-list">
-	<li>Natural Language Processing (NLP), Conversation, Question Answering (QA), Quentified Self, Personal Asssitant(Bot), Reinforcement Learning (RL) </li>
+	<li>Natural Language Processing (NLP), Conversation, Question Answering (QA), Quentified Self, Personal Asssitant(Bot) </li>
 </ul>
 
 <hr/>
@@ -113,15 +121,15 @@ Personal Organization for Deep Learning Project.
 <ul>
   <li>
     <a href="https://hb-research.github.io/notes/">notes</a> : Summary Notes, Codes and Articles of Deep Learning Research.
-	  <iframe src="https://ghbtns.com/github-btn.html?user=hb-research&repo=notes&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
+	  <iframe src="https://ghbtns.com/github-btn.html?user=DongjunLee&repo=notes&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
   </li>
   <li>
     <a href="https://github.com/hb-research/hb-config">hb-config</a> : easy to configure your python project especially Deep Learning experiments
-	  <iframe src="https://ghbtns.com/github-btn.html?user=hb-research&repo=hb-config&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
+	  <iframe src="https://ghbtns.com/github-btn.html?user=DongjunLee&repo=hb-config&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
   </li>
   <li>
     <a href="https://github.com/hb-research/hb-base/">hb-base</a> : Project structure of Deep Learning experiments
-	  <iframe src="https://ghbtns.com/github-btn.html?user=hb-research&repo=hb-base&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
+	  <iframe src="https://ghbtns.com/github-btn.html?user=DongjunLee&repo=hb-base&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
   </li>
 </ul>
 
