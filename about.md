@@ -28,13 +28,17 @@ Machine Learning Engineer, <a href="https://clova.ai/">Naver, Clova AI Research<
 
 <ul>
 	<li>
-	  Backend engineer in NLP Research Team
+	  Led the project that pre-trained Language Representations (e.g. BERT, GPT-2)
+	  <ul>
+	    <li>When our team submitted, achieved the  first place with  F1 92.42 on KorQuAD Test Set</li>
+	  </ul>
 	</li>
 	<li>
-	  Led the Question Answering Framework project from Research to Service
+	  As the author of  open-source Clova Language Framework, I designed and implemented the project and am maintaining this project.
 	  <ul>
-	    <li>The Framework for easily research experiments and test model with connecting modules</li>
-	    <li>Developed on the Document QA Model with focusing inference latency and keeping the original performance</li>
+	    <li>Design general NLP ‘Experiment’ flow with training, evaluation and predictive flow and ‘Machine’ pipeline</li>
+	    <li>Implements various models (reading comprehension and semantic parsing), tokens (ELMo, CoVe and Linguistic) and Machine (OpenQA)</li>
+	    <li>Deploy CLaF machine to production with REST API</li>
 	  </ul>
 	</li>
 </ul>
@@ -44,9 +48,10 @@ Software Engineer, Machine Learning <a href="https://kono.ai">Konolabs</a>, (201
 </h3>
 
 <ul>
-    <li> Implemented Email Bot pipeline with AWS, NLP Server (Django + TF Serving) and Kono Slack Bot </li>
-    <li> Researched NLP and temporal information extraction </li>
     <li> Led a project Kono Slack Bot that schedule an team meeting as easy as possible </li>
+    <li> Implemented Email Bot pipeline with AWS, NLP Server (Django + TF Serving)</li>
+    <li> Researched NLP and mainly worked to expand coverage of temporal information extraction </li>
+
 </ul>
 
 <h3>
@@ -83,7 +88,7 @@ Software Engineer Intern, <a href="#">Minz Communication</a>, (2015. 7 ~ 2016.7)
 
 <ul class="publications">
 	<li> 
-	  <b> CHOPT : Automated Hyperparameter Optimization Framework for Cloud-Based Machine Learning Platforms </b> (2018. 10) <br/>
+	  <b> CHOPT : Automated Hyperparameter Optimization Framework for Cloud-Based Machine Learning Platforms </b> (2018. 10) [<a href="https://arxiv.org/abs/1810.03527">paper</a>] <br/>
 	  Jinwoong Kim, Minkyu Kim, Heungseok Park, Ernar Kusdavletov, Dongjun Lee, Adrian Kim, Ji-Hoon Kim, Jung-Woo Ha, Nako Sung </li>
 </ul>
 
@@ -99,7 +104,7 @@ Software Engineer Intern, <a href="#">Minz Communication</a>, (2015. 7 ~ 2016.7)
 
 <ul class="skill-list">
 	<li>HTML5, CSS3, JavaScript, jQuery (SAP)</li>
-	<li>Favorite language is <b>Python3</b></li>
+	<li>My favorite language is <b>Python3</b></li>
 	<li>Data Science - numpy, scikit-learn, pandas, matplotlib, seaborn, jupyter notebook</li>
 	<li><b>Machine Learning & Deep Learning</b> - <b>TensorFlow, PyTorch</b>, scikit-learn</li>
 	<li>AWS - API Gateway, Lambda, S3 etc...</li>
@@ -137,6 +142,10 @@ Personal Organization for Deep Learning Project.
 <h3> Natural Language Processing </h3>
 
 <ul>
+  <li>
+	  <a href="https://github.com/naver/claf">CLaF</a> CLaF: Open-source Clova Language Framework, Mar 2019
+	  <iframe src="https://ghbtns.com/github-btn.html?user=naver&repo=claf&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
+  </li>
   <li>
 	  <a href="https://github.com/DongjunLee/relation-network-tensorflow">relation-network-tensorflow</a> : TensorFlow implementation of 'A simple neural network module for relational reasoning' for bAbi task, Jan 2018
 	  <iframe src="https://ghbtns.com/github-btn.html?user=DongjunLee&repo=relation-network-tensorflow&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
