@@ -28,9 +28,9 @@ Machine Learning Engineer, <a href="https://clova.ai/">Naver, Clova AI Research<
 
 <ul>
 	<li>
-	  Led the project that pre-trained Language Representations (e.g. BERT, GPT-2)
+	  Led the LaRva project that develops Large-Scale Language Modeling (e.g. BERT, GPT-2)
 	  <ul>
-	    <li>When our team submitted, achieved the  first place with  F1 92.42 on KorQuAD Test Set</li>
+	    <li>Achieved the 1st place with F1 94.75 on KorQuAD v1.0 Test Set</li>
 	  </ul>
 	</li>
 	<li>
@@ -125,15 +125,15 @@ Personal Organization for Deep Learning Project.
 
 <ul>
   <li>
-    <a href="https://hb-research.github.io/notes/">notes</a> : Summary Notes, Codes and Articles of Deep Learning Research.
+    <a href="https://github.com/DongjunLee/notes/">notes</a> : Summary Notes, Codes and Articles of Deep Learning Research.
 	  <iframe src="https://ghbtns.com/github-btn.html?user=DongjunLee&repo=notes&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
   </li>
   <li>
-    <a href="https://github.com/hb-research/hb-config">hb-config</a> : easy to configure your python project especially Deep Learning experiments
+    <a href="https://github.com/DongjunLee/hb-config">hb-config</a> : easy to configure your python project especially Deep Learning experiments
 	  <iframe src="https://ghbtns.com/github-btn.html?user=DongjunLee&repo=hb-config&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
   </li>
   <li>
-    <a href="https://github.com/hb-research/hb-base/">hb-base</a> : Project structure of Deep Learning experiments
+    <a href="https://github.com/DongjunLee/hb-base/">hb-base</a> : Project structure of Deep Learning experiments
 	  <iframe src="https://ghbtns.com/github-btn.html?user=DongjunLee&repo=hb-base&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
   </li>
 </ul>
