@@ -31,7 +31,7 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: humanbrain # enter this from your disqus account
-  categories: [blog, project, wiki] # only show disqus for posts that have these categories
+  categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 facebook: dongjun.lee.98284
@@ -43,7 +43,7 @@ linkedin: dongjun-lee
 # youtube: myyoutube
 # spotify: myspotify
 github: DongjunLee
-# wordpress: humanbrain.in
+wordpress: https://www.notion.so/humanbrain/HB-Wiki-b991e2de3bae4498ae00c8953abaf807
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -74,7 +74,6 @@ projects: true
 # if you don't need "about" or "blog", comment them out below
 about: true
 blog: true
-wiki: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
