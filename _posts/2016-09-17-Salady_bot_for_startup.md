@@ -8,10 +8,8 @@ tag:
 - project
 image: https://github.com/DongjunLee/SaladyBot/raw/master/images/order.png
 headerImage: true
-projects: true
-hidden: true # don't count this post in blog pagination
 description: "The project for generate fashion by Deep Learning according to input words."
-category: project
+category: blog
 author: dongjun
 externalLink: false
 ---

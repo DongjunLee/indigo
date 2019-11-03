@@ -8,12 +8,9 @@ tag:
 - fashion
 image: https://github.com/Soma2-HighFashion/Word2Image/blob/master/sample_images/generate_samples.png?raw=true
 headerImage: true
-projects: true
-hidden: true # don't count this post in blog pagination
-description: "The project for generate fashion by Deep Learning according to input words."
-category: project
+category: blog
 author: dongjun
-externalLink: false
+description: "The project for generate fashion by Deep Learning according to input words."
 ---
 
 # HighFashion 프로젝트

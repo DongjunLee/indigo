@@ -8,10 +8,8 @@ tag:
 - chatbot
 - personal assistant
 headerImage: false
-projects: true
-hidden: true # don't count this post in blog pagination
 description: "My Personal Assistant Kino based on Slack Bot Part 3 - T3."
-category: project
+category: blog
 author: dongjun
 externalLink: false
 ---
