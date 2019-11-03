@@ -22,15 +22,16 @@ CV: <a href="https://dongjunlee.github.io/assets/cv/CV_DongjunLee_Resume.pdf">[P
 
 <div style="margin-left: 15px;">
 
-<h3>
-Machine Learning Engineer, <a href="https://clova.ai/">Naver, Clova AI Research</a>, (2018. 4 ~ Current)
-</h3>
+<h3> Machine Learning Engineer and Project Manager </h3>
+<h5> <a href="https://clova.ai/">Naver, Clova AI Research</a>, (2018. 4 ~ Current) </h5>
+
 
 <ul>
 	<li>
-	  Led the LaRva project that develops Large-Scale Language Modeling (e.g. BERT, GPT-2)
+	  Led the LaRva project that develops Large-Scale Pre-trained Language Modeling (e.g. BERT, GPT-2 and RoBERTa)
 	  <ul>
-	    <li>Achieved the 1st place with F1 94.75 on KorQuAD v1.0 Test Set</li>
+	    <li>Developed faster and efficiently the whole pipeline that train and evaluate for PLM (LaRva pipeline) </li>
+       <li>Achieved the 1st place with F1 94.75 on KorQuAD v1.0 Test Set (2019.06.26)</li>
 	  </ul>
 	</li>
 	<li>
@@ -43,9 +44,8 @@ Machine Learning Engineer, <a href="https://clova.ai/">Naver, Clova AI Research<
 	</li>
 </ul>
 
-<h3>
-Software Engineer, Machine Learning <a href="https://kono.ai">Konolabs</a>, (2016. 7 ~ 2018. 3)
-</h3>
+<h3> Software Engineer, Machine Learning </h3>
+<h5> <a href="https://kono.ai">Konolabs</a>, (2016. 7 ~ 2018. 3) </h5>
 
 <ul>
     <li> Led a project Kono Slack Bot that schedule an team meeting as easy as possible </li>
@@ -54,26 +54,28 @@ Software Engineer, Machine Learning <a href="https://kono.ai">Konolabs</a>, (201
 
 </ul>
 
-<h3>
-Software Engineer Intern, <a href="https://lunit.io/"> Lunit </a>, (2016. 1 ~ 2016. 6)
-</h3>
+
+<h3> Software Engineer Intern </h3>
+<h5> <a href="https://lunit.io/"> Lunit </a>, (2016. 1 ~ 2016. 6) </h5>
+
 
 <ul>
 	<li>Managed massive data and developed storage server</li>
 </ul>
 
-<h3>
-6th Member, <a href="http://www.swmaestro.kr/">Software Maestro</a>, (2015. 7 ~ 2016.7)
-</h3>
+<h3> 6th Member </h3>
+<h5> <a href="http://www.swmaestro.kr/">Software Maestro</a>, (2015. 7 ~ 2016.7) </h5>
+
 
 <ul>
 	<li>Software Talent Training Program for developer</li>
 	<li>Team Projects and Education, Seminar, and so on</li>
 </ul>
 
-<h3>
-Software Engineer Intern, <a href="#">Minz Communication</a>, (2015. 7 ~ 2016.7)
-</h3>
+
+<h3> Software Engineer Intern </h3>
+<h5> <a href="#">Minz Communication</a>, (2015. 7 ~ 2016.7) </h5>
+
 
 <ul>
 	<li>Digital Signage System Project : develop web CMS, android app</li>
@@ -83,6 +85,14 @@ Software Engineer Intern, <a href="#">Minz Communication</a>, (2015. 7 ~ 2016.7)
 </div>
 
 <hr/>
+
+
+<h2> Talks </h2>
+
+<ul class="talks">
+	<li> Deview 2019 - <a href="https://deview.kr/2019/schedule/291">엄~청 큰 언어 모델 공장 가동기! (LaRva: Language Representation by Clova)</a>, [<a href="https://deview.kr/data/deview/2019/presentation/[111]+%E1%84%8B%E1%85%A5%E1%86%B7_%E1%84%8E%E1%85%A5%E1%86%BC+%E1%84%8F%E1%85%B3%E1%86%AB+%E1%84%8B%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%A5+%E1%84%86%E1%85%A9%E1%84%83%E1%85%A6%E1%86%AF+%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%BC+%E1%84%80%E1%85%A1%E1%84%83%E1%85%A9%E1%86%BC%E1%84%80%E1%85%B5.pdf">slide</a>] </li>
+</ul>
+
 
 <h2> Publications </h2>
 
@@ -95,7 +105,7 @@ Software Engineer Intern, <a href="#">Minz Communication</a>, (2015. 7 ~ 2016.7)
 <h2>Interest</h2>
 
 <ul class="skill-list">
-	<li>Natural Language Processing (NLP), Conversation, Question Answering (QA), Quentified Self, Personal Asssitant(Bot) </li>
+	<li>Natural Language Processing (NLP), Quentified Self, Personal Asssitant(Bot), Dialog</li>
 </ul>
 
 <hr/>
