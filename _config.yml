@@ -43,7 +43,6 @@ linkedin: dongjun-lee
 # youtube: myyoutube
 # spotify: myspotify
 github: DongjunLee
-wordpress: "https://www.notion.so/humanbrain/HB-Wiki-b991e2de3bae4498ae00c8953abaf807"
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -74,6 +73,7 @@ projects: true
 # if you don't need "about" or "blog", comment them out below
 about: true
 blog: true
+wiki: true
 
 # do you want to show the "read time" of the posts?
 read-time: true

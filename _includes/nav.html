@@ -22,6 +22,12 @@
             {% endif %}
         {% endif %}
 
+        {% if site.wiki == true %}
+                <li class="item">
+                    <a class="link" href="https://www.notion.so/HB-Wiki-b991e2de3bae4498ae00c8953abaf807">HB Wiki</a>
+                </li>
+        {% endif %}
+
         {% if site.about == true %}
             {% if page.title != "About" %}
                 <li class="item">
